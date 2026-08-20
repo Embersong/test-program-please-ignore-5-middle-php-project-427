@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Embersong/test-program-please-ignore-5-middle-php-project-427/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Embersong/test-program-please-ignore-5-middle-php-project-427/actions)
